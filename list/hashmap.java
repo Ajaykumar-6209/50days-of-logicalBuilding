@@ -4,11 +4,11 @@ public class main {
         java.util.HashSet<String, Integer> hashSet = new java.util.HashSet<String, Integer>();
 
         // Add elements to the HashSet
-        hashSet.add("btech", 1);
-        hashSet.add("mtech", 2);
-        hashSet.add("phd", 3);
+        hashSet.add("bachelor of technology", 1);
+        hashSet.add("master of technology", 2);
+        hashSet.add("Doctor of philosophy", 3);
         hashSet.add("bachelor degree", 4);
-        hashSet.add("mbbs");
+        hashSet.add("Bachelor of medicine bachelor of surgery", 5);
 
         // Iterate through the HashSet and print each element
         for (String college : hashSet) {

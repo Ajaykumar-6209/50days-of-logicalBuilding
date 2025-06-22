@@ -12,6 +12,6 @@ public static void main(String[] args) {
 
     // Iterate through the linked list and print each element
     for (int i = 0; i < list.size(); i++) {
-        System.out.println(list.get(i));
+        System.out.println(list);
     }
 }

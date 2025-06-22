@@ -6,7 +6,7 @@ public clas main{
         // Add elements to the LinkedHashSet
         linkedHashSet.add("google");
         linkedHashSet.add("microsoft");
-        linkedHashSet.add("orace");
+        linkedHashSet.add("oracle");
         linkedHashSet.add("apple");
         linkedHashSet.add("flipkart");
         linkedHashSet.add("amazon");

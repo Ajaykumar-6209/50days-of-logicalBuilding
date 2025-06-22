@@ -4,7 +4,7 @@ public class main{
         java.util.LinkedHashMap<String, Integer> linkedHashMap = new java.util.LinkedHashMap<String, Integer>();
 
 
-        linkedHashMap.put("briyani", 549);
+        linkedHashMap.put("fried", 549);
         linkedHashMap.put("pizza", 399);
         linkedHashMap.put("burger", 199);
         linkedHashMap.put("pasta", 299);
