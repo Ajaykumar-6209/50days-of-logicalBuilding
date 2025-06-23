@@ -1,7 +1,7 @@
-public class main{
+public class arrayls{
     public static void main(String[] args) {
         
-        Arraylist<String> list = new Arraylist<String>();
+        List <String> lists = new Arraylist <String>();
     
         list.add("Volvo");
         list.add("BMW");

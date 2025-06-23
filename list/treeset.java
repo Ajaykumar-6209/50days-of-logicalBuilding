@@ -1,7 +1,7 @@
-public class LogicalBuilding {
+public class treeset {
     public static void main(String[] args) {
         // Create a new instance of the TreeSet class
-        java.util.TreeSet<String> list= new java.util.TreeSet<String>();
+        TreeSet<String> list= new TreeSet<String>();
 
         // Add elements to the TreeSet
        

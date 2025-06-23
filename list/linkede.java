@@ -1,4 +1,4 @@
-public class linkedex{
+public class linkede{
     public static void main(String[] args) {
         // Create a new instance of the LinkedHashMap class
         java.util.LinkedHashMap<String, String> city = new java.util.LinkedHashMap<String, String>();

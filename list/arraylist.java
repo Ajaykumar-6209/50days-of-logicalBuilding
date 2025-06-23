@@ -1,7 +1,8 @@
-public class main {
+public class arraylist  
+ {
     public static void main(String[] args) {
         // Create a new instance of the HashSet class
-        java.util.HashSet<String, Integer> hashSet = new java.util.HashSet<String, Integer>();
+        HashSet<String, Integer> hashset = HashSet<String, Integer>();
 
         // Add elements to the HashSet
         hashSet.add("bachelor of technology", 1);
