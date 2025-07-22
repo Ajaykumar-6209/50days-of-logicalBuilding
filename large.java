@@ -8,12 +8,8 @@ public class large {
         for(int i = 0; i<num.length; i++){
             if(largest < num[i]){
                  largest = num[i];
-             }
-             if(smallest > num[i]){
-                smallest = num[i];
-             }
-        }
-        System.out.println("get smallest number in array :" smallest);
+ 
+
         return largest;
 
     }
