@@ -1,5 +1,5 @@
 import java.util.*;
-public class rev{
+public class reversed{
 public static void reverse(int numbers[]){
     int first = 0;
     int last = numbers.length-1;
