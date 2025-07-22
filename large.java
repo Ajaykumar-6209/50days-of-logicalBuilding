@@ -3,14 +3,16 @@ public class large {
 
     public static int getLargest(int num[]){
         int largest = Integer.MIN_VALUE;
-        int small = Integer.MAX_VALUE;
+        int smallest = Integer.MAX_VALUE;
 
         for(int i = 0; i<num.length; i++){
             if(largest < num[i]){
                  largest = num[i];
-          
              }
+            if(smallest > num[i]){
+                smallest = num[i];
         }
+            System.out.println("smallest value in array :" + smallest);
         return largest;
 
     }
